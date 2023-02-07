@@ -1,0 +1,14 @@
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.csproj.AssemblyReference.cache
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.AssemblyInfoInputs.cache
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.AssemblyInfo.cs
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.csproj.CoreCompileInputs.cache
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\bin\Debug\netcoreapp3.1\WatchTime.exe
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\bin\Debug\netcoreapp3.1\WatchTime.deps.json
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\bin\Debug\netcoreapp3.1\WatchTime.runtimeconfig.json
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\bin\Debug\netcoreapp3.1\WatchTime.runtimeconfig.dev.json
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\bin\Debug\netcoreapp3.1\WatchTime.dll
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\bin\Debug\netcoreapp3.1\WatchTime.pdb
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.dll
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.pdb
+C:\Users\IrfanfY\source\repos\WatchTime\WatchTime\obj\Debug\netcoreapp3.1\WatchTime.genruntimeconfig.cache
